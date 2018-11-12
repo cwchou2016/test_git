@@ -1,5 +1,0 @@
-This is another test.
-
-add another line here.
-
-Text 2 file is going to be ignored.
